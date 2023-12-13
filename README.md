@@ -1,7 +1,7 @@
 # CIS 635 Knowledge Discovery and Data Mining
 ## Team Data Alliance:
 
-1. VAISHNAVI RASANE
+1. [VAISHNAVI RASANE](https://vaishnavirasane.github.io/Vaishnavi-Rasane/)
 2. ROHITH ANUGOLU
 3. SANJANA DEVARUPALA
 4. ROHITA JAHNAVI JALA
